@@ -22,5 +22,3 @@ The following files include 56284 users. This is what we remained with,
 after we performed the preprocessing of the 1 million users.
 We removed profiles, where information where missing which we needed for our project.
 
-The good think about this dataset is, that every user has at least one connection
-to another user in this very same network.
