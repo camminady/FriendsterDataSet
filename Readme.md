@@ -41,4 +41,6 @@ The three entries that are problematic are:
 
 Since too much time has passed, I will ignore this problem.
 
-To import the data in e.g. python, keep in mind, that there is an index shift with respect to Matlab.
+To import the data in e.g. Python, keep in mind that there is an index shift with respect to Matlab.
+
+
